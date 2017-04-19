@@ -1,6 +1,6 @@
 # npmtest-vue
 
-#### test coverage for  [vue (v2.2.6)](https://github.com/vuejs/vue#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vue.svg)](https://travis-ci.org/npmtest/node-npmtest-vue)
+#### basic test coverage for  [vue (v2.2.6)](https://github.com/vuejs/vue#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vue.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vue) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vue.svg)](https://travis-ci.org/npmtest/node-npmtest-vue)
 
 #### Reactive, component-oriented view layer for modern web interfaces.
 
